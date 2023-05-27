@@ -7,4 +7,4 @@ This is a fully functional eCommerce store that uses React.js + Tailwind CSS + R
 
  Stripe is used for the Checkout to let the user purchase the items. You can see this play out in the example store.
  
- Mobile Responsive
+ #Mobile Responsive
