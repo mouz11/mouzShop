@@ -30,10 +30,28 @@ This is a fully functional eCommerce store that uses React.js + Tailwind CSS + R
  
  Create a .env file in the root directories of admin, client and server. You need to add these variables to each file:
  
- client/.env
+ **client/.env**
  
  <pre>
-```
-API_BASE_URL=http://localhost:5001
-```
+API_BASE_URL=
 </pre>
+
+ **sever/.env**
+ 
+<pre>
+DATABASE_URL=mongodb://localhost:27017/mouzshop
+PORT=5001
+SECRET_KEY=
+JWT_KEY=
+STRIPE_KEY=
+WEBHOOK_SECRET=
+CLIENT=
+</pre>
+
+**admin/.env**
+ 
+<pre>
+API_BASE_URL=
+</pre>
+
+
