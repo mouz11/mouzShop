@@ -36,6 +36,7 @@ This is a fully functional eCommerce store that uses React.js + Tailwind CSS + R
 API_BASE_URL=
 </pre>
 
+
  **sever/.env**
  
 <pre>
@@ -47,6 +48,7 @@ STRIPE_KEY=
 WEBHOOK_SECRET=
 CLIENT=
 </pre>
+
 
 **admin/.env**
  
