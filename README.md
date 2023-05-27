@@ -14,7 +14,7 @@ This is a fully functional eCommerce store that uses React.js + Tailwind CSS + R
 
 <h3>The techs</h3>
 <ul>
- <li>HTML</li>
+ <li>Html</li>
  <li>css</li>
  <li>ReactJs</li>
  <li>tailwind</li>
@@ -23,3 +23,7 @@ This is a fully functional eCommerce store that uses React.js + Tailwind CSS + R
  <li>ExpressJs</li>
  <li>MongoDB</li>
 </ul>
+
+ <h3>How to use</h3>
+ 
+ <h4>Set up envirement variables</h4>
