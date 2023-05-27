@@ -39,7 +39,7 @@ API_BASE_URL=
  **sever/.env**
  
 <pre>
-DATABASE_URL=mongodb://localhost:27017/mouzshop
+DATABASE_URL=
 PORT=5001
 SECRET_KEY=
 JWT_KEY=
