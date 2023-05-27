@@ -7,6 +7,8 @@ This is a fully functional eCommerce store that uses React.js + Tailwind CSS + R
 
  Stripe is used for the Checkout to let the user purchase the items. You can see this play out in the example store.
  
- **Mobile Responsive**
+ <h2>**Mobile Responsive**</h2>
+ 
+ 
  ![wow](https://github.com/mouz11/mouzShop/assets/96539837/a4e41e09-cee5-4ecb-893f-019db734e996)
 
